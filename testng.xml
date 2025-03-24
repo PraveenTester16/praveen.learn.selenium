@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/Admin/IdeaProjects/praveen.learn.selenium"><classes><class name="Ex1_Basics.TestSelenium01"><methods><include name="test_VerifyVWOLogin"/></methods></class><class name="Ex1_Basics.TestSelenium02"><methods><include name="testSelenium02"/></methods></class></classes></test></suite>
