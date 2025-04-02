@@ -1,7 +1,8 @@
 package Ex1_Basics;
 
-import org.junit.Test;
+
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.Test;
 
 public class TestSelenium01 {
 
